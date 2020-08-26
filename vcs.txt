@@ -1,7 +1,0 @@
-In software engineering, version control (also known as revision control, source control, or source code management) is system
- responsible for managing changes to computer programs, documents, large web sites, or other collections of information.
- Top  Version Control Software Tools :
-1) Git. Git is one of the best version control tools that is available in the present market.
-2) CVS. It is yet another most popular revision control system.
-3) SVN. Apache Subversion, abbreviated as SVN 
-4) Mercurial. Mercurial is a distributed revision-control tool which is written in python
